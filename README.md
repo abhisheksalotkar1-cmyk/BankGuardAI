@@ -10,7 +10,7 @@
 
 > **University Final-Year Demonstration Project & Portfolio Presentation**  
 > **Author & Repository Owner:** [Abhishek Salotkar](https://github.com/abhisheksalotkar1-cmyk) (`abhisheksalotkar1-cmyk`)  
-> **Repository:** [https://github.com/abhisheksalotkar1-cmyk/Bank--Customer-Churn-](https://github.com/abhisheksalotkar1-cmyk/Bank--Customer-Churn-)
+> **Repository:** [https://github.com/abhisheksalotkar1-cmyk/BankGuardAI](https://github.com/abhisheksalotkar1-cmyk/BankGuardAI)
 
 ---
 
