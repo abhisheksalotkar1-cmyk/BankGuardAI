@@ -1,0 +1,52 @@
+[
+  {
+    "feature": "Age",
+    "raw_feature": "age",
+    "importance": 13.21
+  },
+  {
+    "feature": "Num Of Products",
+    "raw_feature": "num_of_products",
+    "importance": 12.48
+  },
+  {
+    "feature": "Credit Score",
+    "raw_feature": "credit_score",
+    "importance": 8.07
+  },
+  {
+    "feature": "Balance To Salary Ratio",
+    "raw_feature": "balance_to_salary_ratio",
+    "importance": 7.02
+  },
+  {
+    "feature": "Estimated Salary",
+    "raw_feature": "estimated_salary",
+    "importance": 6.79
+  },
+  {
+    "feature": "Balance",
+    "raw_feature": "balance",
+    "importance": 6.74
+  },
+  {
+    "feature": "Product Density",
+    "raw_feature": "product_density",
+    "importance": 6.0
+  },
+  {
+    "feature": "Is Active Member 1",
+    "raw_feature": "is_active_member_1",
+    "importance": 5.43
+  },
+  {
+    "feature": "Engagement Score",
+    "raw_feature": "engagement_score",
+    "importance": 5.41
+  },
+  {
+    "feature": "Tenure",
+    "raw_feature": "tenure",
+    "importance": 4.35
+  }
+]
